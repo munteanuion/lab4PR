@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="content1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/EmailSender/content/jsoup-1.12.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/EmailSender/content/activation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/EmailSender/content/javax.mail.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

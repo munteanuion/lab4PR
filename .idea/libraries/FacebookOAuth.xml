@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="FacebookOAuth">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/HTTPClient/dist/FacebookOAuth.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
